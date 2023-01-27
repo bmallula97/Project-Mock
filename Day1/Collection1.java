@@ -1,3 +1,4 @@
+package Day1;
 import java.util.*;
 public class Collection1 {
     public static void main(String[] args) {
