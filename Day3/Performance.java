@@ -1,4 +1,4 @@
-package Day2;
+package Day3;
 import java.util.*;
 public class Performance {
     //Method to insert elements into HashSet
